@@ -35,7 +35,6 @@ Bu uygulamayı çalıştırmak için aşağıdakilere ihtiyacınız var:
    ```sh
    node server.js
 
-
 4. Video yüklemek için, terminal/command prompt üzerinden curl komutunu kullanabilirsiniz:
 
    ```sh
