@@ -30,5 +30,3 @@ Bu uygulamayı çalıştırmak için aşağıdakilere ihtiyacınız var:
  ```sh
 npm install
 
- ```sh
-node server.js
