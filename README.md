@@ -27,6 +27,10 @@ Bu uygulamayı çalıştırmak için aşağıdakilere ihtiyacınız var:
 
 2. Gerekli npm paketlerini kurun:
 
- ```sh
-npm install
+   ```sh
+   npm install
 
+2. Uygulamayı başlatın:
+
+   ```sh
+   node server.js
