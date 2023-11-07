@@ -1,9 +1,9 @@
 # ffmpeg-transcode
 
-```markdown
 # Video Transcoder
 
-Video Transcoder, Node.js ve Express kullanarak videoları farklı çözünürlüklerde transcode etmek için basit bir arayüzdür. Bu uygulama, video dosyalarınızı 1080p, 720p ve 480p formatlarında transcode etmek için FFmpeg kullanır.
+Video Transcoder, Node.js ve Express kullanarak videoları farklı çözünürlüklerde transcode etmek için basit bir arayüzdür.
+Bu uygulama, video dosyalarınızı 1080p, 720p ve 480p formatlarında transcode etmek için FFmpeg kullanır.
 
 ## Özellikler
 
