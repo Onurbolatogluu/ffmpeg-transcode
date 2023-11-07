@@ -53,24 +53,3 @@ Proje dizininde aşağıdaki adımları takip edin:
 
 - `POST /upload`: Bu endpoint, videonuzu alır ve transcode işlemini başlatır.
 
-## Geliştirme
-
-- Uygulamayı geliştirmek için, kodları `src` klasöründe bulabilirsiniz.
-- FFmpeg opsiyonlarını değiştirmek veya yeni özellikler eklemek için ilgili kod bölümlerini düzenleyin.
-
-## Katkıda Bulunma
-
-Projeye katkıda bulunmak isterseniz, lütfen aşağıdaki adımları takip edin:
-
-1. Projeyi forklayın.
-2. Yeni bir özellik veya düzeltme için bir branch oluşturun (`git checkout -b feature/your_feature`).
-3. Değişikliklerinizi commit edin (`git commit -am 'Add some feature'`).
-4. Branch'i push edin (`git push origin feature/your_feature`).
-5. Yeni bir Pull Request oluşturun.
-
-## Lisans
-
-Bu proje MIT lisansı altında lisanslanmıştır - daha fazla bilgi için [LICENSE](LICENSE) dosyasına bakın.
-```
-
-Bu dosyayı projenizin ana dizinine `README.md` adıyla kaydedebilirsiniz. Projeye eşlik edecek bir `LICENSE` dosyası da eklemeniz gerekebilir. Genellikle, açık kaynak projeleri için MIT lisansı yaygın olarak kullanılır. Bu lisansın tam metnini internet üzerinden kolayca bulabilir ve projenize ekleyebilirsiniz.
