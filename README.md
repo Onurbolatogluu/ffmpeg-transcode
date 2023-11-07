@@ -30,7 +30,17 @@ Bu uygulamayı çalıştırmak için aşağıdakilere ihtiyacınız var:
    ```sh
    npm install
 
-2. Uygulamayı başlatın:
+3. Uygulamayı başlatın:
 
    ```sh
    node server.js
+
+
+4. Video yüklemek için, terminal/command prompt üzerinden curl komutunu kullanabilirsiniz:
+
+   ```sh
+   curl -X POST -F "video=@/path/to/your/video.mp4" http://localhost:3001/upload
+
+- Not: /path/to/your/video.mp4 kısmını yüklemek istediğiniz video dosyasının yoluna göre değiştirin.
+
+- Başarılı bir yükleme sonrası, sunucunun transcode edilmiş video için oluşturduğu URL'i size döndürecektir.
